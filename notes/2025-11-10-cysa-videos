@@ -1,1 +1,112 @@
+# Security Intelligence Sharing
+**Date:** 2025-11-10  
+**Course:** CySA+ Certify Breakfast  
+**Source:** Video Part 6  
 
+---
+
+## 🧠 Key Concepts
+- ISACs
+- Risk Management and Security Engineering
+- Incident Response
+- Vulnerability Management
+  - The Process
+    - Assign responsibilities
+    - Document EVERYTHING
+    - Management and User support
+    - Inventory ~ keep track of devices, assets, configurations; collect and back up
+    - Assign business risks and prioritize (How badly would we suffer if this device was comprimized?)
+    - Select the right tools (the right ones for the vulnerability)
+    - Scan for vulnerabilities
+    - Fix ASAP; do not forget about it
+- Detection and Monitoring
+
+## 🧩 Important Terms / Commands
+| Term | Definition |
+|------|-------------|
+| ISACs | Information Sharing and Analysis Centers; collects and shares information related to security, common vulnerabilities and attacks |
+
+## 🧠 Takeaways / Real-World Use
+- Vulnerability Management is a very important process. You're able to fix gaps in security BEFORE any issues or attacks happen. What do we need to fix? Where are our weaknesses?
+  - Can be time consuming, but will also save you lots of $ compared to an actual attack or breach occuring.
+- Detection and Monitoring will help fine tune your defenses, avoid false negatives and positives. Ensure you keep everything up to date.
+
+## 🔗 References / Next Steps
+- Watch “Threat Classification and Threat Actors” (Video 7) next
+- ISACs
+  - https://www.fsisac.com/
+  - https://health-isac.org/
+  - https://www.it-isac.org/
+  - https://www.cisecurity.org/ms-isac
+
+---
+
+# Threat Classification and Threat Actors
+**Date:** 2025-11-10  
+**Course:** CySA+ Certify Breakfast  
+**Source:** Video Part 7  
+
+---
+
+## 🧠 Key Concepts
+- Unknown Threats
+  - Very advanced
+  - Sometimes new/zero-day threat
+- The Johari Window
+  - Known Knowns
+  - Known Unknowns
+  - Unknown Knowns
+  - Unknown Unknowns
+- Bug Bounties
+- Bad Actors
+  - Cyberterrorism
+  - Organized Crime
+  - Hacktivists
+  - Nation-States
+  - Script Kiddies
+  - Recreational Hackers (Hacking competitions, hackathons)
+  - Professional Hackers (Penn testers, security auditors)
+  - Suicide Hackers (Illegal acts, steals data, does NOT care if they are caught; only want to reach their goal)
+  - Insider Threats (Intentional or unintentional; dangerous as they already have access; anger, financial gain, bribes, threats)
+  - Shadow IT (cloud services, applications, anything not approved by change management/policy)
+
+## 🧩 Important Terms / Commands
+| Term | Definition |
+|------|-------------|
+| Zero-Day Threat | Vulnerabilities where there are no known mitigation or patch available at the time iti s disclosed or made public |
+| The Johari Window | 4 Combinations of things that are known or unknown to the world | 
+| Bug Bounties | Companies will offer rewards to users who find and report any bugs foudn in their new software/program/system etc. |
+| APT | Advanced persistent threat, intrusion designed to be advances, undetected for long periods of time, and of course is considered a Threat |
+| Commodity Malware | Malware for everyone, open-source, dark-web, etc. |
+
+## 🧠 Takeaways / Real-World Use
+- Bug Bounties can be helpful in both learning how to find bugs at the same time helping out those in the real world who could've been affected by these bugs.
+- APT are always 'well-funded' hackers (according to CompTIA, not really applicable to the real world as if you have some luck and skill, you could cause the same if not more damaged then 'well funded' hackers)
+- CompTIA loves to mention Insider Threats, so keep that in mind on the Exam
+- If it isn't Commodity malware, it's most likely custom, but it CAN be a combination of both; so be aware
+
+## 🔗 References / Next Steps
+- Watch “Threat Research and Indicators of Comprimise” (Video 8) next
+
+---
+
+# Threat Research and Indicators of Comprimise
+**Date:** 2025-11-10  
+**Course:** CySA+ Certify Breakfast  
+**Source:** Video Part 8  
+
+---
+
+## 🧠 Key Concepts
+- 
+
+## 🧩 Important Terms / Commands
+| Term | Definition |
+|------|-------------|
+| 
+
+## 🧠 Takeaways / Real-World Use
+- 
+
+## 🔗 References / Next Steps
+- Watch “” (Video 9) next
